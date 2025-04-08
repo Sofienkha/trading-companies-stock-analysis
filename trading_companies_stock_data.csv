@@ -1,0 +1,31 @@
+Ticker,Company Name,Current Price ($),Market Cap ($B),P/E Ratio,52-Week High ($),52-Week Low ($),Dividend Yield (%),Sector,Volume (M),EPS ($),Beta
+GS,Goldman Sachs Group Inc.,457.85,148.2,17.8,472.50,342.10,2.28,Financial Services,2.1,25.78,1.45
+MS,Morgan Stanley,103.42,167.8,16.7,108.75,83.33,3.47,Financial Services,7.3,6.19,1.32
+JPM,JPMorgan Chase & Co.,198.76,571.3,12.1,204.32,148.87,2.42,Financial Services,8.5,16.43,1.07
+C,Citigroup Inc.,63.28,120.7,9.5,67.50,38.17,3.80,Financial Services,14.2,6.66,1.52
+BAC,Bank of America Corp.,38.92,305.1,13.2,42.18,28.35,2.57,Financial Services,41.5,2.95,1.38
+WFC,Wells Fargo & Company,57.83,204.7,12.0,61.76,37.92,2.77,Financial Services,15.8,4.82,1.20
+SCHW,Charles Schwab Corp.,72.65,129.4,28.3,78.42,45.23,1.32,Financial Services,7.6,2.57,0.95
+IBKR,Interactive Brokers Group Inc.,125.38,13.3,21.5,130.47,71.69,0.63,Financial Services,0.9,5.83,0.78
+BLK,BlackRock Inc.,825.76,122.6,22.4,895.13,596.18,2.37,Financial Services,0.6,36.86,1.27
+BX,Blackstone Inc.,129.53,158.3,37.5,135.75,84.14,3.33,Financial Services,3.4,3.46,1.42
+CME,CME Group Inc.,214.25,77.1,26.3,223.80,175.84,2.60,Financial Services,1.7,8.15,0.45
+ICE,Intercontinental Exchange Inc.,139.87,80.3,33.4,144.20,105.53,1.14,Financial Services,2.3,4.19,0.93
+TROW,T. Rowe Price Group,123.78,27.5,16.7,130.25,90.17,4.21,Financial Services,1.2,7.41,1.32
+STT,State Street Corp.,79.42,23.9,14.8,86.12,65.47,3.53,Financial Services,2.1,5.37,1.52
+NDAQ,Nasdaq Inc.,65.32,37.8,28.0,69.45,51.70,1.47,Financial Services,2.5,2.33,0.75
+MKTX,MarketAxess Holdings Inc.,219.75,8.3,42.5,345.20,205.10,1.09,Financial Services,0.3,5.17,0.74
+CBOE,Cboe Global Markets Inc.,182.36,19.3,25.7,188.45,139.51,1.51,Financial Services,0.7,7.09,0.52
+TW,Tradeweb Markets Inc.,103.76,24.8,58.4,108.20,74.85,0.67,Financial Services,1.0,1.78,0.85
+COIN,Coinbase Global Inc.,235.87,57.2,85.2,320.55,66.35,0.00,Financial Services,12.3,2.77,3.15
+HOOD,Robinhood Markets Inc.,25.83,22.4,N/A,28.65,9.02,0.00,Financial Services,17.5,-0.15,1.68
+VIRT,Virtu Financial Inc.,29.15,4.6,14.1,32.35,18.42,4.12,Financial Services,0.8,2.07,0.35
+FLT,FLEETCOR Technologies Inc.,301.42,21.5,23.8,311.25,232.73,0.00,Information Technology,0.4,12.66,1.12
+SPGI,S&P Global Inc.,448.73,141.5,51.3,461.87,340.15,0.85,Financial Services,1.2,8.75,1.20
+MSCI,MSCI Inc.,528.45,41.8,42.7,585.34,398.53,0.97,Financial Services,0.5,12.38,1.09
+MCO,Moody's Corp.,398.76,72.9,42.1,415.21,298.21,0.84,Financial Services,0.8,9.47,1.25
+INFO,IHS Markit Ltd.,134.23,53.6,67.8,138.12,103.54,0.67,Industrials,1.6,1.98,0.97
+EVR,Evercore Inc.,189.75,7.5,26.4,204.35,148.92,2.11,Financial Services,0.4,7.19,1.45
+PJT,PJT Partners Inc.,102.58,2.4,28.5,107.33,76.25,2.19,Financial Services,0.2,3.60,1.23
+LAZ,Lazard Ltd.,44.85,5.1,17.5,48.12,31.45,4.68,Financial Services,0.6,2.56,1.60
+COWN,Cowen Inc.,48.75,1.3,5.9,52.40,31.78,2.06,Financial Services,0.3,8.26,1.52
